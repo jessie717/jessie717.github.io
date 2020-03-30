@@ -6,7 +6,7 @@
 1. - [ ] 深拷贝和浅拷贝
 2. - [x] [防抖和节流](https://github.com/jessie717/jessie717.github.io/issues/3)
 3. - [ ] 数组扁平化、去重等
-4. - [ ] call、apply、bind的实现
+4. - [x] [call、apply、bind的实现](https://github.com/jessie717/jessie717.github.io/issues/4)
 5. - [ ] promise、Generator、async/await
 6. - [ ] es6+新特性
 7. - [ ] 函数柯里化
@@ -20,3 +20,4 @@
 15. - [ ] 模块化问题
 16. - [ ] 宏任务、微任务
 17. - [ ] 数据结构
+18. - [x] [new运算符的执行过程](https://github.com/jessie717/jessie717.github.io/issues/5)
