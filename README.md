@@ -21,3 +21,8 @@
 16. - [ ] 宏任务、微任务
 17. - [ ] 数据结构
 18. - [x] [new运算符的执行过程](https://github.com/jessie717/jessie717.github.io/issues/5)
+
+> vue部分
+1. - [x] [v-if和v-show的区别](https://github.com/jessie717/jessie717.github.io/issues/7)
+2. - [ ] 生命周期
+
