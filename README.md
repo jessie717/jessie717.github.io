@@ -12,7 +12,7 @@
 7. - [ ] 函数柯里化
 8. - [ ] 懒加载
 9. - [ ] 继承
-10. - [ ] 原型、原型链
+10. - [x] 原型、原型链
 11. - [ ] 作用域、作用域链、闭包
 12. - [x] [typeof、instanceof](https://github.com/jessie717/jessie717.github.io/issues/1)
 13. - [ ] js中的this
